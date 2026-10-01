@@ -1,0 +1,13 @@
+AUDITORÍA FINAL DEL ENUNCIADO — PROBLEMA 5
+
+El blanco de 0,20 mL pertenece al procedimiento directo con AgNO3 y cromato.
+Corrección correcta:
+V(AgNO3,corr) = V(AgNO3,muestra) - 0,20 mL.
+
+No corresponde trasladar automáticamente ese blanco al KSCN si se cambia a Volhard.
+
+Impacto en puntajes:
+- Cardarelli, Catalina: P5 3 -> 4; total 35 -> 36. Nota: Desaprobado.
+- Lanari, Manuela: P5 4 -> 5; total 70 -> 71. Nota: 6.
+
+Los demás cambios de la segunda auditoría se mantienen.
