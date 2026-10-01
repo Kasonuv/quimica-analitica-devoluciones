@@ -779,7 +779,7 @@ function printFeedback(){
 function showSolutions(){
   $("solutionsModal").style.display="block";
   document.body.style.overflow="hidden";
-  if(window.MathJax?.typesetPromise) MathJax.typesetPromise([$("\solutionsContent")]).catch(()=>{});
+  if(window.MathJax?.typesetPromise) MathJax.typesetPromise([$("solutionsContent")]).catch(()=>{});
 }
 function hideSolutions(){
   $("solutionsModal").style.display="none";
